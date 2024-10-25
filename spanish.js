@@ -1281,7 +1281,6 @@ spanish = [
     "plaga",
     "instinto",
     "afecto",
-    "nazi",
     "lujo",
     "brisa",
     "salchicha",

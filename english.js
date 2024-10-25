@@ -1281,7 +1281,6 @@ english = [
     "plague",
     "instinct",
     "affection",
-    "nazi",
     "luxury",
     "breeze",
     "sausage",
